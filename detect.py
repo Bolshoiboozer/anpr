@@ -58,7 +58,7 @@ for repeat in range(1):
         thresh = threshold_otsu(img)
         log = img > thresh"""
 
-        return img
+        return logarithmic_corrected
     
     def LoadAnnotation(fname):
         with open(fname) as data_file:    
