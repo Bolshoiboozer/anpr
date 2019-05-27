@@ -1,0 +1,1 @@
+{"tags": ["train"], "description": "", "objects": [{"bitmap": {"origin": [], "np": []}, "type": "rectangle", "classTitle": "plate_bbox", "description": "", "tags": [], "points": {"exterior": [[42,100],[158,106],[51,130],[152,75]], "interior": []}}], "size": {"height": 200, "width": 200}}
